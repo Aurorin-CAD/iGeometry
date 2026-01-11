@@ -5,7 +5,7 @@
 //  Created by Nail Sharipov on 15.09.2022.
 //
 
-import Darwin
+import Foundation
 
 public struct Simplificator {
     
